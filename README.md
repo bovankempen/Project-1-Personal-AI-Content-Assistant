@@ -33,6 +33,7 @@ Design:
 •	Responsive Design - Mobile-first approach ensuring full functionality on smartphones, tablets, and desktop computers
 
 **Reflection**
+
 Using AI to build this project made everything much faster and easier. Claude created the basic code structure right away, so I could focus on making the tool user-friendly instead of writing complicated code from scratch. The AI quickly made different design options for me to choose from and was really helpful when creating the crossed hockey sticks logo, adjusting it based on my feedback. This project taught me how to clearly explain what I want to AI tools to get the best results.
 The hardest part was getting the exercise format right. At first, the AI created exercises that were way too long with lots of bold text and special formatting that looked messy. It took several tries to get the clean, simple format with just six steps that I wanted. I also had to learn how to properly connect to the Claude API and handle things like loading states and error messages, which was confusing at first.
 For version 2.0, I would add a "Save" button so users can keep their favorite exercises, a way to print exercises as PDFs for using on the field, and filters to find exercises based on what equipment you have available. Adding simple diagrams showing where to set up cones and players would make instructions even clearer.
