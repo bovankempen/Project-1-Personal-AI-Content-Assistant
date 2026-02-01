@@ -18,10 +18,6 @@ The approach's effectiveness lies in its intelligent personalization combined wi
 
 **Tech Stack**
 
-AI API Used:
-•	Anthropic Claude API
-•	Why Claude? Selected for its exceptional ability to generate structured educational content with clear, safety-conscious instructions. Claude excels at understanding sports-specific contexts and produces consistently well-formatted training content. The API's reliability and quality of output for instructional materials made it ideal for generating exercises that need to be immediately actionable and appropriate for the specified skill level. Claude also demonstrates strong capability in scaling content complexity based on user inputs, ensuring beginner exercises remain accessible while advanced drills challenge elite players appropriately.
-
 AI Coding Assistant Used:
 •	Claude
 •	Used extensively for component architecture design, React state management implementation, UI/UX iteration, and API integration debugging. Claude assisted in creating the custom SVG crossed hockey sticks icon, implementing responsive design with Tailwind CSS, and refining the prompt engineering to achieve optimal exercise output format.
